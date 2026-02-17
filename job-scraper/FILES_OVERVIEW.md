@@ -124,7 +124,7 @@ TypeScript compilation settings:
 
 ### `.env` (at parent level)
 ```
-FIRECRAWL_API_KEY=fc-03c820fe5f654b0281b820dad760e984
+FIRECRAWL_API_KEY=
 ```
 
 ### `.gitignore` (15 lines)
